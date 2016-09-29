@@ -1,0 +1,19 @@
+{
+    "posts":
+    [
+        {
+                "heading": "Building things with JSON, AJAX and SASS",
+                "subHeading": "Sharpening those tools",
+                "author": "Jamie Maguire",
+                "date": "29 September 2016",
+                "content": "So earlier this week I built my first real side project using plain javascript to make ajax calls to the Battle.net provided by Blizzard. Using this data I created a character viewer for the MMORPG World of Warcraft. I was really happy when I finally saw those images and character stats load on the page when I submitted the form data. <p> I learnt a lot during the process, in fact the main take away from that project was that I really enjoy programming for the web in javascript. It's taken me a long time to get to grips with it and more and more concepts are starting to make sense.</p> <p> Following on from that, I have now built a web page that loads a JSON file and iterates through it, creating blog posts. Which is what you're reading this on. Wicked stuff, thanks for reading!</p>"
+        },
+        {
+                "heading": "User Research at Mshed",
+                "subHeading": "Interactions, Objects and Clifton Coffee",
+                "author": "Jamie Maguire",
+                "date": "Thursday 29 September 2016",
+                "content": "So today we had a class trip to Mshed - a museum of Bristols's culture and heritage. The purpose was to conduct research into how interactions occur within the museum. How do people interact with objects? How do people interact with each other? Are there interactions that occur only within Mshed that otherwise may not occur in everyday life? <p> These were some of the questions we attempted to answer through observation and interviews. Also, the coffee they served was great!</p>"
+        }
+    ]
+}
